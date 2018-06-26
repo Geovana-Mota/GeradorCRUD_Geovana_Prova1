@@ -1,0 +1,4 @@
+id;int;a
+nome;String;a
+data;Date;dd/MM/yyyy
+sexo;boolean;radiobutton,fem,masc

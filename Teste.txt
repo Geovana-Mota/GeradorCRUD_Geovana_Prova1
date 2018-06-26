@@ -1,0 +1,3 @@
+id;int;0
+nome;String;55
+dtNasc;Date;0

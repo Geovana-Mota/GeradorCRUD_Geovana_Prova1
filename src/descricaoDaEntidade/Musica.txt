@@ -1,0 +1,6 @@
+idMusica;long;a
+nomeMusica;String;a
+tempoDeDuracao;Date;mm:ss
+dataDeLancamento;Date;dd/MM/yyyy
+compositor;String;a
+ativaNoCadastro;boolean;checkbox,ativar
